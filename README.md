@@ -1,3 +1,8 @@
+k8sのpodへのリクエスト回数を表示するアプリ
+
+![k8s](https://user-images.githubusercontent.com/20484619/105630879-d8c3a700-5e8e-11eb-9365-9e390108e5ec.gif)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
