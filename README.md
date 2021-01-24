@@ -1,5 +1,7 @@
 k8sのpodへのリクエスト回数を表示するアプリ
 
+[このサーバー](https://github.com/pokotyan/k8s-request-counter-emitter)のAPI実行を subscribe し、ブラウザに表示する
+
 ![k8s](https://user-images.githubusercontent.com/20484619/105630879-d8c3a700-5e8e-11eb-9365-9e390108e5ec.gif)
 
 
