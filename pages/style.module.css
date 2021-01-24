@@ -1,0 +1,29 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0e0e0;
+}
+
+.inner {
+  width: 80vw;
+  padding: 50px;
+  border-radius: 20px;
+  background: #e0e0e0;
+  box-shadow: inset 20px 20px 60px #bebebe, inset -20px -20px 60px #ffffff;
+  margin-bottom: 20px;
+}
+
+.desc {
+  font-weight: bold;
+  color: #b490ca;
+  font-size: 14.5px;
+  letter-spacing: 2px;
+}
+
+.dead {
+  color: red;
+}
